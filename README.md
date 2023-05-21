@@ -10,6 +10,5 @@ It is like submodules in this repo and [in repo my teammate Kafi](https://github
 
 ## Results 
 
-<img src="pct_res/launching.jpg" width="300" alt="c">
-<img src="pct_res/fly.gif" width="300" alt="c">
+<img src="pct_res/launching.jpg" width="300" alt="c"> <img src="pct_res/fly.gif" width="300" alt="c">
 <img src="pct_res/win.jpg" width="300" alt="c">
